@@ -22,12 +22,6 @@ This project showcases a Tableau dashboard built to analyze student performance 
 - `student_scores.csv` → Sample dataset (if included)
 - `dashboard_preview.png` → Screenshot of the final dashboard
 
-##  How to Use
-
-1. Download the `.twbx` file
-2. Open it in Tableau Desktop or Tableau Public
-3. Explore the dashboard — toggle filters, view top performers, and analyze subject-level performance
-
 ##  About
 
 Created by **Anurag Kumar**  
